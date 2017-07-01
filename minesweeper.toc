@@ -1,0 +1,2 @@
+\contentsline {chapter}{\numberline {1}A Main Heading}{1}
+\contentsline {section}{\numberline {1.1}A Subheading}{1}
